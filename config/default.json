@@ -1,0 +1,4 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb://admin:0KZSe4e4mKGh0Chk@cluster0-shard-00-00.w1c7k.mongodb.net:27017,cluster0-shard-00-01.w1c7k.mongodb.net:27017,cluster0-shard-00-02.w1c7k.mongodb.net:27017/app?ssl=true&replicaSet=atlas-7gxh1b-shard-0&authSource=admin&retryWrites=true&w=majority"
+}
